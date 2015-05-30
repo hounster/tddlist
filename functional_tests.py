@@ -17,7 +17,7 @@ class NewVisitorTest(unittest.TestCase):
         # She notices the page title and header mention "to-do" lists:
         self.assertIn('To-Do', self.browser.title)
 
-# She is invited to enter a to-do item straight away.
+# She is invited to enter a to-do item immediately.
 
 # She types "Buy peacock feathers" into a text box.
 
